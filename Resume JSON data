@@ -1,0 +1,17 @@
+let resume = {
+    Name:"Sanjay",
+    email:"sanjayofficial@gmail.com",
+    PhoneNumber:"7358584810",
+    Address:"No 31/17 New Amaranjipuram",
+    State:"Tamilnadu",
+    College:"K.C.G College of Technology",
+    Education:"B.E Mechanical engineering",
+    Hobbies:"Reading",
+    ProgammingLanguage:"Java, Javascript, Html, CSS, Bootstrap",
+    WorkExperience:"2 Years",
+    LastCompany:"Amazon India Development Center",
+    Designation:"Data Associate",
+    Certification:"Ongoing full stack development course",
+    InstituteStudying: "Guvi",
+};
+
